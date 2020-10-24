@@ -1,0 +1,24 @@
+SENTENCE > NP VP
+VP > V NP
+V > restructures
+V > generates
+V > develops
+V > leverages
+V > actualizes
+V > promotes
+V > redefines
+V > orchestrates
+NP > N
+NP > ADJ N
+ADJ > corporate
+ADJ > dynamic
+ADJ > administrative
+ADJ > cost-effective
+ADJ > cutting-edge
+ADJ > long-term
+ADJ > outside-the-box
+N > synergy
+N > profit
+N > capital
+N > technology
+N > efficiency
